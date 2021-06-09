@@ -1,0 +1,5 @@
+Bundle-Name: announcments-override
+Bundle-SymbolicName: announcments.override
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.announcements.web;bundle-version="5.0.30"
+Portal-Bundle-Version: 7.3.10
